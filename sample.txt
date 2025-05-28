@@ -1,0 +1,1 @@
+In this video, we’ll walk you through the process of installing MySQL on Windows 11, the most popular relational database management system used for web development, data storage, and application management. Whether you're a developer, data scientist, or database administrator, setting up MySQL on your Windows machine is essential for managing your databases effectively.
